@@ -67,6 +67,13 @@
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
+	<distributionManagement>
+		<repository>
+			<id>central</id>
+			<name>1da83d913848-releases</name>
+			<url>http://192.168.1.110:8083/artifactory/libs-release</url>
+		</repository>
+	</distributionManagement>
 
 	<build>
 		<plugins>
