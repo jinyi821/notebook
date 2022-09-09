@@ -11,7 +11,7 @@
 
 	<groupId>org.wangqing.notebook-k8s</groupId>
 	<artifactId>notebook-k8s</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>notebook-k8s</name>
 	<description>notebook-k8s</description>
 
